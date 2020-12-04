@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "swea.2043 서랍의 비밀번호", "swea.2043 서랍의 비밀번호.vcxproj", "{4D962334-6629-4E3D-82B5-A6A25BA68803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D962334-6629-4E3D-82B5-A6A25BA68803}.Debug|x64.ActiveCfg = Debug|x64
+		{4D962334-6629-4E3D-82B5-A6A25BA68803}.Debug|x64.Build.0 = Debug|x64
+		{4D962334-6629-4E3D-82B5-A6A25BA68803}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D962334-6629-4E3D-82B5-A6A25BA68803}.Debug|x86.Build.0 = Debug|Win32
+		{4D962334-6629-4E3D-82B5-A6A25BA68803}.Release|x64.ActiveCfg = Release|x64
+		{4D962334-6629-4E3D-82B5-A6A25BA68803}.Release|x64.Build.0 = Release|x64
+		{4D962334-6629-4E3D-82B5-A6A25BA68803}.Release|x86.ActiveCfg = Release|Win32
+		{4D962334-6629-4E3D-82B5-A6A25BA68803}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C46EE71-A83A-45F4-86F9-D5B54093B52F}
+	EndGlobalSection
+EndGlobal
