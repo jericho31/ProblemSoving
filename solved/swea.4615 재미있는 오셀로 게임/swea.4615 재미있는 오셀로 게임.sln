@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "swea.4615 재미있는 오셀로 게임", "swea.4615 재미있는 오셀로 게임.vcxproj", "{AFC0C851-456D-419B-B10E-7CD0F6FF7A0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC0C851-456D-419B-B10E-7CD0F6FF7A0C}.Debug|x64.ActiveCfg = Debug|x64
+		{AFC0C851-456D-419B-B10E-7CD0F6FF7A0C}.Debug|x64.Build.0 = Debug|x64
+		{AFC0C851-456D-419B-B10E-7CD0F6FF7A0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFC0C851-456D-419B-B10E-7CD0F6FF7A0C}.Debug|x86.Build.0 = Debug|Win32
+		{AFC0C851-456D-419B-B10E-7CD0F6FF7A0C}.Release|x64.ActiveCfg = Release|x64
+		{AFC0C851-456D-419B-B10E-7CD0F6FF7A0C}.Release|x64.Build.0 = Release|x64
+		{AFC0C851-456D-419B-B10E-7CD0F6FF7A0C}.Release|x86.ActiveCfg = Release|Win32
+		{AFC0C851-456D-419B-B10E-7CD0F6FF7A0C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A480F025-D430-4E04-81CF-9993FACB3A44}
+	EndGlobalSection
+EndGlobal
