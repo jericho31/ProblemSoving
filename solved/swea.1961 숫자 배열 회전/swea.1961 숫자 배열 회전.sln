@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "swea.1961 숫자 배열 회전", "swea.1961 숫자 배열 회전.vcxproj", "{8DC9729E-7D35-4CDD-AF86-9A8093121CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC9729E-7D35-4CDD-AF86-9A8093121CDC}.Debug|x64.ActiveCfg = Debug|x64
+		{8DC9729E-7D35-4CDD-AF86-9A8093121CDC}.Debug|x64.Build.0 = Debug|x64
+		{8DC9729E-7D35-4CDD-AF86-9A8093121CDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DC9729E-7D35-4CDD-AF86-9A8093121CDC}.Debug|x86.Build.0 = Debug|Win32
+		{8DC9729E-7D35-4CDD-AF86-9A8093121CDC}.Release|x64.ActiveCfg = Release|x64
+		{8DC9729E-7D35-4CDD-AF86-9A8093121CDC}.Release|x64.Build.0 = Release|x64
+		{8DC9729E-7D35-4CDD-AF86-9A8093121CDC}.Release|x86.ActiveCfg = Release|Win32
+		{8DC9729E-7D35-4CDD-AF86-9A8093121CDC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {717E1275-5939-44D0-867A-7E2BE92F330E}
+	EndGlobalSection
+EndGlobal
