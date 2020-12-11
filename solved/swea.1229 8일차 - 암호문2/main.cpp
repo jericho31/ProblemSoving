@@ -43,8 +43,7 @@ int main()
 				auto iter = ll.begin();
 				while (x--) ++iter;
 				while (y--) {
-					ll.erase(iter--);
-					++iter;
+					ll.erase(iter++);
 				}
 			} break;
 			}
